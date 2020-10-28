@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TestReactSPA/static/css/main.9d3b010a.chunk.css",
+    "main.js": "/TestReactSPA/static/js/main.1f4fc152.chunk.js",
+    "main.js.map": "/TestReactSPA/static/js/main.1f4fc152.chunk.js.map",
+    "runtime-main.js": "/TestReactSPA/static/js/runtime-main.4278159f.js",
+    "runtime-main.js.map": "/TestReactSPA/static/js/runtime-main.4278159f.js.map",
+    "static/js/2.b8dc4557.chunk.js": "/TestReactSPA/static/js/2.b8dc4557.chunk.js",
+    "static/js/2.b8dc4557.chunk.js.map": "/TestReactSPA/static/js/2.b8dc4557.chunk.js.map",
+    "index.html": "/TestReactSPA/index.html",
+    "precache-manifest.2c735ed5c364fbef0638d532923c1987.js": "/TestReactSPA/precache-manifest.2c735ed5c364fbef0638d532923c1987.js",
+    "service-worker.js": "/TestReactSPA/service-worker.js",
+    "static/css/main.9d3b010a.chunk.css.map": "/TestReactSPA/static/css/main.9d3b010a.chunk.css.map",
+    "static/js/2.b8dc4557.chunk.js.LICENSE.txt": "/TestReactSPA/static/js/2.b8dc4557.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TestReactSPA/static/media/logo.d5ab31ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4278159f.js",
+    "static/js/2.b8dc4557.chunk.js",
+    "static/css/main.9d3b010a.chunk.css",
+    "static/js/main.1f4fc152.chunk.js"
+  ]
+}
